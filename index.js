@@ -8,4 +8,4 @@ function factorial(n) {
         return n * factorial(n - 1);
     }
 }
-console.log(factorial(10)); // Output: 120
+console.log(factorial(10)); // Output: 3628800
