@@ -51,3 +51,4 @@ function binarySearch(arr, search, f, l) {
 
 let result = binarySearch(arr, search, f, l);
 console.log(result);
+//done
